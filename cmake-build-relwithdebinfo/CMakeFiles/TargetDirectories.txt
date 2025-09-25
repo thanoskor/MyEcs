@@ -1,3 +1,0 @@
-D:/c_programming/MyEcs/cmake-build-relwithdebinfo/CMakeFiles/MyEcs.dir
-D:/c_programming/MyEcs/cmake-build-relwithdebinfo/CMakeFiles/edit_cache.dir
-D:/c_programming/MyEcs/cmake-build-relwithdebinfo/CMakeFiles/rebuild_cache.dir
