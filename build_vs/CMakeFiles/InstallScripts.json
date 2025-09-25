@@ -1,7 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"D:/cpp_scripts/MyEcs/build_vs/cmake_install.cmake"
-	],
-	"Parallel" : false
-}

@@ -1,8 +1,0 @@
-﻿  Building Custom Rule D:/cpp_scripts/MyEcs/CMakeLists.txt
-cl : command line  warning D9002: ignoring unknown option '-g'
-cl : command line  warning D9002: ignoring unknown option '-O0'
-  main.c
-  ecs.c
-  benchmark.c
-  Generating Code...
-  MyEcs.vcxproj -> D:\cpp_scripts\MyEcs\build_vs\Debug\MyEcs.exe
