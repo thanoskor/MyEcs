@@ -1,0 +1,8 @@
+﻿  1>Checking Build System
+  CMake is re-running because D:/cpp_scripts/MyEcs/build_vs/CMakeFiles/generate.stamp is out-of-date.
+    the file 'D:/cpp_scripts/MyEcs/CMakeLists.txt'
+    is newer than 'D:/cpp_scripts/MyEcs/build_vs/CMakeFiles/generate.stamp.depend'
+    result='-1'
+  -- Configuring done (0.2s)
+  -- Generating done (0.1s)
+  -- Build files have been written to: D:/cpp_scripts/MyEcs/build_vs

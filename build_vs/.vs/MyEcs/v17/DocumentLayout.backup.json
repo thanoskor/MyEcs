@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\cpp_scripts\\MyEcs\\build_vs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5088BED-855D-339A-BA72-E9964A99F5A0}|MyEcs.vcxproj|D:\\cpp_scripts\\MyEcs\\benchmark.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5088BED-855D-339A-BA72-E9964A99F5A0}|MyEcs.vcxproj|D:\\cpp_scripts\\MyEcs\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5088BED-855D-339A-BA72-E9964A99F5A0}|MyEcs.vcxproj|D:\\cpp_scripts\\MyEcs\\ecs.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5088BED-855D-339A-BA72-E9964A99F5A0}|MyEcs.vcxproj|D:\\cpp_scripts\\MyEcs\\ecs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\stdint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.c",
+              "DocumentMoniker": "D:\\cpp_scripts\\MyEcs\\main.c",
+              "RelativeDocumentMoniker": "..\\main.c",
+              "ToolTip": "D:\\cpp_scripts\\MyEcs\\main.c",
+              "RelativeToolTip": "..\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-23T16:52:50.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "stdint.h",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\stdint.h",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\stdint.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-23T17:02:13.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ecs.h",
+              "DocumentMoniker": "D:\\cpp_scripts\\MyEcs\\ecs.h",
+              "RelativeDocumentMoniker": "..\\ecs.h",
+              "ToolTip": "D:\\cpp_scripts\\MyEcs\\ecs.h",
+              "RelativeToolTip": "..\\ecs.h",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAwH0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-23T16:52:52.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ecs.c",
+              "DocumentMoniker": "D:\\cpp_scripts\\MyEcs\\ecs.c",
+              "RelativeDocumentMoniker": "..\\ecs.c",
+              "ToolTip": "D:\\cpp_scripts\\MyEcs\\ecs.c",
+              "RelativeToolTip": "..\\ecs.c",
+              "ViewState": "AgIAAB8BAAAAAAAAAADwvyUBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-23T16:47:34.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "benchmark.c",
+              "DocumentMoniker": "D:\\cpp_scripts\\MyEcs\\benchmark.c",
+              "RelativeDocumentMoniker": "..\\benchmark.c",
+              "ToolTip": "D:\\cpp_scripts\\MyEcs\\benchmark.c",
+              "RelativeToolTip": "..\\benchmark.c",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-23T16:47:25.917Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

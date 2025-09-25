@@ -1,0 +1,5 @@
+# ninja log v6
+11	156	7801905327430048	CMakeFiles/MyEcs.dir/ecs.c.obj	1d39bba26b63bb40
+1051	1180	7802075131390721	MyEcs.exe	1aa3832006105c4
+6	1050	7802075120937824	CMakeFiles/MyEcs.dir/example.c.obj	7cf1bd8a1de20ec3
+2	231	7805324727681714	build.ninja	c49ec4f35e210853
